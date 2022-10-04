@@ -1,5 +1,5 @@
-@import url(../blocks/vendor/normalize.css);
-@import url(../blocks/Page/page.css);
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
@@ -47,6 +47,7 @@
 @import url(../Blocks/kaufman/kaufman.css);
 @import url(../Blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../Blocks/kaufman/__triangle/kaufman__triangle.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../Blocks/resources/resources.css);
 @import url(../Blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../Blocks/resources/__link/resources__link.css);
